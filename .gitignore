@@ -1,1 +1,22 @@
 /.env
+/.venv
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environments
+.venv/
+
+# Other common ignore rules
+Thumbs.db
+desktop.ini
+~*
+.*
+*~.*
+*.crdownload
+*.sb-????????-??????
+*.tmp
+*.session
+s1.session

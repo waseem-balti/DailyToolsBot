@@ -1,0 +1,1021 @@
+2025-03-19 20:31:54,961 - __main__ - INFO - Bot started
+2025-03-19 20:32:19,189 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 20:36:02,156 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:36:02,158 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:36:02,174 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:36:05,001 - __main__ - INFO - Bot started
+2025-03-19 20:36:08,825 - telethon.client.updates - ERROR - Unhandled exception on weather_current_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 160, in weather_current_callback
+    await event.edit("Please share your current location to get the weather:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1238, in edit_message
+    reply_markup=self.build_reply_markup(buttons),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/buttons.py", line 91, in build_reply_markup
+    raise ValueError('You cannot mix inline with normal buttons')
+ValueError: You cannot mix inline with normal buttons
+2025-03-19 20:36:17,187 - telethon.client.updates - ERROR - Unhandled exception on weather_current_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 160, in weather_current_callback
+    await event.edit("Please share your current location to get the weather:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1238, in edit_message
+    reply_markup=self.build_reply_markup(buttons),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/buttons.py", line 91, in build_reply_markup
+    raise ValueError('You cannot mix inline with normal buttons')
+ValueError: You cannot mix inline with normal buttons
+2025-03-19 20:36:48,035 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:36:48,036 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:36:48,050 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:36:58,640 - __main__ - INFO - Bot started
+2025-03-19 20:37:07,179 - telethon.client.updates - ERROR - Unhandled exception on weather_current_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 160, in weather_current_callback
+    await event.edit("Please share your current location to get the weather:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1238, in edit_message
+    reply_markup=self.build_reply_markup(buttons),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/buttons.py", line 91, in build_reply_markup
+    raise ValueError('You cannot mix inline with normal buttons')
+ValueError: You cannot mix inline with normal buttons
+2025-03-19 20:43:15,198 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:43:15,200 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:43:15,251 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:43:17,801 - __main__ - INFO - Bot started
+2025-03-19 20:43:25,542 - telethon.client.updates - ERROR - Unhandled exception on weather_current_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 160, in weather_current_callback
+    await event.edit("Please share your current location to get the weather:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1238, in edit_message
+    reply_markup=self.build_reply_markup(buttons),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/buttons.py", line 91, in build_reply_markup
+    raise ValueError('You cannot mix inline with normal buttons')
+ValueError: You cannot mix inline with normal buttons
+2025-03-19 20:44:09,487 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:44:09,488 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:44:09,567 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:44:12,275 - __main__ - INFO - Bot started
+2025-03-19 20:45:01,858 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:45:01,859 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:45:01,932 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:45:05,101 - __main__ - INFO - Bot started
+2025-03-19 20:45:18,279 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:45:18,280 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:45:18,292 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:45:21,015 - __main__ - INFO - Bot started
+2025-03-19 20:45:36,655 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:45:36,655 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:45:36,668 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:45:39,112 - __main__ - INFO - Bot started
+2025-03-19 20:46:59,764 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:46:59,765 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:46:59,779 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:47:02,328 - __main__ - INFO - Bot started
+2025-03-19 20:58:06,324 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 20:58:06,324 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 20:58:06,345 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 20:58:43,086 - __main__ - INFO - Bot started
+2025-03-19 21:00:44,305 - telethon.client.updates - ERROR - Unhandled exception on handle_text_input
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 259, in handle_text_input
+    elif state.get("state") == "waiting_for_note_content":
+         ^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-03-19 21:12:18,441 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:12:18,445 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:12:18,462 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:12:21,009 - __main__ - INFO - Bot started
+2025-03-19 21:12:33,694 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 721, in handle_callback
+    answers = [question_data["correct_answer"]] + question_data["incorrect_answers"]
+               ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'question_data' where it is not associated with a value
+2025-03-19 21:12:48,314 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:12:48,316 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:12:48,330 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:12:55,645 - __main__ - INFO - Bot started
+2025-03-19 21:13:09,173 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 721, in handle_callback
+    answers = [question_data["correct_answer"]] + question_data["incorrect_answers"]
+               ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'question_data' where it is not associated with a value
+2025-03-19 21:24:00,920 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:24:00,924 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:24:00,942 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:24:05,383 - __main__ - INFO - Bot started
+2025-03-19 21:24:12,145 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 721, in handle_callback
+    answers = [question_data["correct_answer"]] + question_data["incorrect_answers"]
+               ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'question_data' where it is not associated with a value
+2025-03-19 21:27:29,229 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:27:29,230 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:27:29,248 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:27:34,503 - __main__ - INFO - Bot started
+2025-03-19 21:27:40,607 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 736, in handle_callback
+    answers = [question_data["correct_answer"]] + question_data["incorrect_answers"]
+               ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'question_data' where it is not associated with a value
+2025-03-19 21:31:52,197 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:31:52,198 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:31:52,212 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:31:57,729 - __main__ - INFO - Bot started
+2025-03-19 21:33:56,263 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 21:47:58,506 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-03-19 21:47:58,507 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-03-19 21:48:00,109 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:51:58,775 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-03-19 21:51:58,776 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-03-19 21:52:00,502 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:55:08,432 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 21:55:08,432 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 21:55:08,457 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 21:55:11,204 - __main__ - INFO - Bot started
+2025-03-19 22:01:52,336 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 22:01:52,337 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 22:01:52,355 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 22:01:57,941 - __main__ - INFO - Bot started
+2025-03-19 22:02:00,369 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:02:29,790 - telethon.client.updates - ERROR - Unhandled exception on callback_handler
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 217, in callback_handler
+    await event.edit(news, buttons=[[Button.inline("🔙 Back to News Menu", b"news_menu")]])
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:02:32,070 - telethon.client.updates - ERROR - Unhandled exception on callback_handler
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 217, in callback_handler
+    await event.edit(news, buttons=[[Button.inline("🔙 Back to News Menu", b"news_menu")]])
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:02:34,366 - telethon.client.updates - ERROR - Unhandled exception on callback_handler
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 217, in callback_handler
+    await event.edit(news, buttons=[[Button.inline("🔙 Back to News Menu", b"news_menu")]])
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:02:36,263 - telethon.client.updates - ERROR - Unhandled exception on callback_handler
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 217, in callback_handler
+    await event.edit(news, buttons=[[Button.inline("🔙 Back to News Menu", b"news_menu")]])
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:02:36,785 - telethon.client.updates - ERROR - Unhandled exception on callback_handler
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 217, in callback_handler
+    await event.edit(news, buttons=[[Button.inline("🔙 Back to News Menu", b"news_menu")]])
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:02:36,994 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:12:28,926 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-03-19 22:12:28,927 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-03-19 22:12:28,944 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-03-19 22:12:37,590 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:16:58,864 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:16:58,865 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:16:58,865 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:16:58,865 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:16:58,865 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:16:58,868 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:16:58,869 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-46' coro=<UpdateMethods._dispatch_update() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:570> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]> cb=[set.discard()]>
+2025-03-19 22:16:58,869 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:16:58,870 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:16:58,870 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:16:58,874 - __main__ - ERROR - News error: Event loop is closed
+2025-03-19 22:16:58,874 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x780f394bac60>
+2025-03-19 22:16:58,874 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-47' coro=<TCPConnector._resolve_host_with_throttle() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/aiohttp/connector.py:1026> wait_for=<Future cancelled> cb=[set.discard(), shield.<locals>._inner_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:905]>
+2025-03-19 22:18:14,719 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 663, in handle_callback
+    await event.edit("Main Menu:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:19:02,956 - __main__ - ERROR - News error: Cannot connect to host newsapi.org:443 ssl:default [Temporary failure in name resolution]
+2025-03-19 22:19:04,705 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:19:08,602 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<CallbackQuery.Event.answer() done, defined at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py:219> exception=QueryIdInvalidError('The query ID is invalid (caused by SetBotCallbackAnswerRequest)')>
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 245, in answer
+    return await self._client(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.QueryIdInvalidError: The query ID is invalid (caused by SetBotCallbackAnswerRequest)
+2025-03-19 22:19:16,169 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 663, in handle_callback
+    await event.edit("Main Menu:", buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:19:26,351 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:19:26,351 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:19:26,351 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:19:26,351 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:19:26,352 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:19:26,353 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:19:26,354 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:19:26,354 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:19:26,354 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:20:22,507 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:20:22,507 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:20:22,507 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:20:22,508 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:20:22,508 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:20:22,511 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:20:22,516 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:20:22,517 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:20:22,517 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:20:47,078 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 809, in handle_callback
+    await event.edit(news_text, buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:22:15,351 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:22:15,352 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:22:15,352 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:22:15,352 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:22:15,352 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:22:15,354 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:22:15,356 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:22:15,356 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:22:15,357 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:24:37,949 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:24:37,949 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:24:37,949 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:24:37,949 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:24:37,950 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:24:37,951 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:24:37,952 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:24:37,953 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:24:37,953 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:25:14,061 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:25:14,062 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:25:14,062 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:25:14,062 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:25:14,062 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:25:14,065 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:25:14,067 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:25:14,067 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:25:14,067 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:25:40,484 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 812, in handle_callback
+    await event.edit(news_text, buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:25:48,686 - telethon.client.updates - ERROR - Unhandled exception on handle_callback
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py", line 812, in handle_callback
+    await event.edit(news_text, buttons=buttons)
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/events/callbackquery.py", line 321, in edit
+    return await self._client.edit_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/messages.py", line 1241, in edit_message
+    msg = self._get_response_message(request, await self(request), entity)
+                                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 92, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageNotModifiedError: Content of the message was not modified (caused by EditMessageRequest)
+2025-03-19 22:25:50,618 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:27:40,095 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:28:40,022 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:29:12,268 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-32' coro=<send_reminder() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/DailyTools/bot/main.py:456> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,327 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,327 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,327 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,327 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,327 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:29:12,328 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:29:12,330 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:29:12,330 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:29:12,330 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:29:41,232 - __main__ - INFO - User 7438121486 started the bot
+2025-03-19 22:30:17,029 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:30:17,030 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:30:17,032 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:30:17,032 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:30:17,032 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:30:17,034 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-03-19 22:30:17,035 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<UpdateMethods._update_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-19 22:30:17,035 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._keepalive_loop() running at /home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]>>
+2025-03-19 22:30:17,035 - telethon.client.updates - ERROR - Fatal error handling updates (this is a bug in Telethon v1.39.0, please report it)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/reicho/Mega Sync Backups/Coding/Telegram Projects/BOT1/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 452, in _update_loop
+    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
